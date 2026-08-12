@@ -1,0 +1,14 @@
+C:\Users\ronal\source\repos\CalcularSalarioTotal\bin\Debug\net10.0\CalcularSalarioTotal.exe
+C:\Users\ronal\source\repos\CalcularSalarioTotal\bin\Debug\net10.0\CalcularSalarioTotal.deps.json
+C:\Users\ronal\source\repos\CalcularSalarioTotal\bin\Debug\net10.0\CalcularSalarioTotal.runtimeconfig.json
+C:\Users\ronal\source\repos\CalcularSalarioTotal\bin\Debug\net10.0\CalcularSalarioTotal.dll
+C:\Users\ronal\source\repos\CalcularSalarioTotal\bin\Debug\net10.0\CalcularSalarioTotal.pdb
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\CalcularSalarioTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\CalcularSalarioTotal.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\CalcularSalarioTotal.AssemblyInfo.cs
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\CalcularSalarioTotal.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\CalcularSalarioTotal.dll
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\refint\CalcularSalarioTotal.dll
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\CalcularSalarioTotal.pdb
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\CalcularSalarioTotal.genruntimeconfig.cache
+C:\Users\ronal\source\repos\CalcularSalarioTotal\obj\Debug\net10.0\ref\CalcularSalarioTotal.dll
