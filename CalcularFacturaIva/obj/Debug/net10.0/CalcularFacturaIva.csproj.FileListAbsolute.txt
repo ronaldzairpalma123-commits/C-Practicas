@@ -1,0 +1,14 @@
+C:\Users\ronal\source\repos\CalcularFacturaIva\bin\Debug\net10.0\CalcularFacturaIva.exe
+C:\Users\ronal\source\repos\CalcularFacturaIva\bin\Debug\net10.0\CalcularFacturaIva.deps.json
+C:\Users\ronal\source\repos\CalcularFacturaIva\bin\Debug\net10.0\CalcularFacturaIva.runtimeconfig.json
+C:\Users\ronal\source\repos\CalcularFacturaIva\bin\Debug\net10.0\CalcularFacturaIva.dll
+C:\Users\ronal\source\repos\CalcularFacturaIva\bin\Debug\net10.0\CalcularFacturaIva.pdb
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\CalcularFacturaIva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\CalcularFacturaIva.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\CalcularFacturaIva.AssemblyInfo.cs
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\CalcularFacturaIva.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\CalcularFacturaIva.dll
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\refint\CalcularFacturaIva.dll
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\CalcularFacturaIva.pdb
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\CalcularFacturaIva.genruntimeconfig.cache
+C:\Users\ronal\source\repos\CalcularFacturaIva\obj\Debug\net10.0\ref\CalcularFacturaIva.dll
