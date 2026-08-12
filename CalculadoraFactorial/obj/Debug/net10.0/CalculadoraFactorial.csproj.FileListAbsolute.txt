@@ -1,0 +1,14 @@
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\CalculadoraFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\CalculadoraFactorial.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\CalculadoraFactorial.AssemblyInfo.cs
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\CalculadoraFactorial.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\CalculadoraFactorial\bin\Debug\net10.0\CalculadoraFactorial.exe
+C:\Users\ronal\source\repos\CalculadoraFactorial\bin\Debug\net10.0\CalculadoraFactorial.deps.json
+C:\Users\ronal\source\repos\CalculadoraFactorial\bin\Debug\net10.0\CalculadoraFactorial.runtimeconfig.json
+C:\Users\ronal\source\repos\CalculadoraFactorial\bin\Debug\net10.0\CalculadoraFactorial.dll
+C:\Users\ronal\source\repos\CalculadoraFactorial\bin\Debug\net10.0\CalculadoraFactorial.pdb
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\CalculadoraFactorial.dll
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\refint\CalculadoraFactorial.dll
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\CalculadoraFactorial.pdb
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\CalculadoraFactorial.genruntimeconfig.cache
+C:\Users\ronal\source\repos\CalculadoraFactorial\obj\Debug\net10.0\ref\CalculadoraFactorial.dll
